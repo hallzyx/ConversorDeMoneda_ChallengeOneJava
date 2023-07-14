@@ -4,15 +4,17 @@
 > Autor: Brayan Ccarita Cruz
         
 ![](https://i.imgur.com/yCP2bjg.jpg)
-        
+
 **Tabla de contenido**
-        
--[¿Que lenguaje se usó?](#Que-lenguaje-se-usó)  
--[¿Qué librerias se usaron?](#Que-Librerias-se-usaron)  
-        ...snip...    
-        <a name="headers"/>
-
-
+<!-- TOC -->
+* [Challenge Conversor de monedas](#challenge-conversor-de-monedas)
+  * [¿Que lenguaje se usó?](#que-lenguaje-se-usó)
+  * [¿Que librerias se usaron?](#que-librerias-se-usaron)
+    * [Java.swing](#javaswing)
+    * [Java.util.List](#javautillist)
+    * [Java.DecimalFormat](#javadecimalformat)
+    * [Java.Util.Vector](#javautilvector)
+<!-- TOC -->
 
 ## ¿Que lenguaje se usó?
 Este conversor de monedas se codificó usando el lenguaje de programacion **Java**
@@ -20,10 +22,23 @@ Este conversor de monedas se codificó usando el lenguaje de programacion **Java
 
 ## ¿Que librerias se usaron?
 ```Java
-    import javax.swing.*;
-	import java.awt.*;
-	import java.util.*;
-	import java.util.List;
-	import java.text.DecimalFormat;
-	import java.util.Vector;
+import javax.swing.*;
+import java.util.*;
+import java.util.List;
+import java.text.DecimalFormat;
+import java.util.Vector;
 ```
+### Java.swing
+Se importó esta libreria para usar todas las caracteristias de **JOptionPane** para el diseño de la interface
+
+### Java.util.List
+Se importó esta librería para usar una variable del tipo **list** la cual nos facilitaría la manipulacion de elementos 
+a diferencia de los arrays al momento de agregar elementos de manera **dinamica**
+
+### Java.DecimalFormat
+Se importó esta liberia para poder redondear los decimales de la respuesta al numero deseado.
+
+### Java.Util.Vector
+Se importó esta libreria para tener un facil acceso a los elementos de este mismo.
+
+
