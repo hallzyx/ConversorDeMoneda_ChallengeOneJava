@@ -3,9 +3,9 @@
         
 > Autor: Brayan Ccarita Cruz
 > 
-> Repositorio: [[ Click aquí ]](http://https://github.com/hallzyx/ConversorDeMoneda_ChallengeOneJava "[Click aquí]")
+> Repositorio: [[ Click aquí ]](https://github.com/hallzyx/ConversorDeMoneda_ChallengeOneJava)
 >
-> Archivo de ejecución: [main2.java](http://https://github.com/hallzyx/ConversorDeMoneda_ChallengeOneJava/blob/main/src/main2.java "main2.java")
+> Archivo de ejecución: [main2.java](https://github.com/hallzyx/ConversorDeMoneda_ChallengeOneJava/blob/main/src/main2.java)
 
         
 ![](https://i.imgur.com/yCP2bjg.jpg)
